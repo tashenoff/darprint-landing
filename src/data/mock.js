@@ -1,8 +1,8 @@
 // Конфигурируемые данные для лендинга заправки картриджей
 export const mockData = {
   contact: {
-    phone: "87029427029",
-    whatsapp: "87029427029",
+    phone: "77029427029",
+    whatsapp: "77029427029",
     email: "info@darprint.kz",
     workingHours: "Пн-Пт: 9:00-18:00, Сб: 10:00-15:00"
   },
